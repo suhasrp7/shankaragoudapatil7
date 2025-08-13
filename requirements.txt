@@ -1,0 +1,7 @@
+streamlit==1.36.0
+sentence-transformers==2.6.1
+PyMuPDF==1.24.5
+pytesseract==0.3.10
+Pillow==10.4.0
+numpy==1.26.4
+tqdm==4.66.5
