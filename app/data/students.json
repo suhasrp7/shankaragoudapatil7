@@ -1,0 +1,26 @@
+[
+  {
+    "username": "john",
+    "password": "test123",
+    "student_id": "S123456",
+    "name": "John Doe",
+    "stream": "Computer Science",
+    "interests": ["machine learning", "algorithms", "python"]
+  },
+  {
+    "username": "alice",
+    "password": "password1",
+    "student_id": "S654321",
+    "name": "Alice Smith",
+    "stream": "Electrical Engineering",
+    "interests": ["signal processing", "circuits", "embedded"]
+  },
+  {
+    "username": "maria",
+    "password": "securepass",
+    "student_id": "S777888",
+    "name": "Maria Garcia",
+    "stream": "Mathematics",
+    "interests": ["calculus", "linear algebra", "probability"]
+  }
+]
